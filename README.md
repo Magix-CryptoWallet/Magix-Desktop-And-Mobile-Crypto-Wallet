@@ -11,10 +11,9 @@
 ### 💻 Only for Windows 7/8/8.1/10/11 (later on mac and phones)
 #### Technical Specifications
 * Graphics - Open GL 3.3 or later compatible
-* Processor - Intel Core i5 or better
 * OS - Windows 7 or higher 
-* RAM - 4 GB or more
-* Disk space - 3 GB free space
+* RAM - 2 GB or more
+* Disk space - 200 MB free space
 
 ![alt-текст](https://i.imgur.com/W9HROMh.jpg)
 
