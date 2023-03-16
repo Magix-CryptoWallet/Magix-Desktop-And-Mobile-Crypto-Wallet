@@ -1,4 +1,4 @@
-# Magix™ | Desktop and Mobile CryptoWallet
+# Magix™ | Desktop and Mobile Crypto Wallet
 -------------
 ![alt-текст](https://i.imgur.com/0fbOB6V.jpg)
 
